@@ -1,0 +1,11 @@
+{
+  "name": "api-viacep",
+  "version": "1.0.0",
+  "description": "Exemplo de consumo da API ViaCEP para busca autom\u251c\u00edtica de endere\u251c\u00baos a partir do CEP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillNobill",
+  "license": "MIT"
+}
